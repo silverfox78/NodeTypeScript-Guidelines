@@ -21,6 +21,10 @@
 
 ### Instalación y Configuración
 
+> Por buenas o mejores prácticas se entiende un conjunto coherente de acciones que han rendido en un determinado contexto y que se espera que, en contextos similares, rindan con similares resultados.
+
+> La cultura se come a la estrategia para el desayuno - Peter Drucker
+
 - Entorno de desarrollo para Node.js y TypeScript
 - IDEs
 - paquetes necesarios
